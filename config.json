@@ -1,0 +1,17 @@
+{
+  "defaultUrl": "http://127.0.0.1:5173",
+  "autoStart": false,
+  "idleCloseMinutes": 10,
+  "viewport": { "width": 1280, "height": 720 },
+  "jpegQuality": 75,
+  "ignoreHTTPSErrors": true,
+  "keepLogin": true,
+  "dialogs": "accept",
+  "httpCredentials": null,
+  "extraHTTPHeaders": null,
+  "extraHTTPHeadersHosts": null,
+  "actionTimeoutMs": 5000,
+  "navigationTimeoutMs": 45000,
+  "evalTimeoutMs": 30000,
+  "maxFullPageHeight": 3000
+}

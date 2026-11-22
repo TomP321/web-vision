@@ -1,0 +1,17 @@
+{
+  "name": "web-vision-claude-code",
+  "version": "2.0.0",
+  "description": "Server MCP per Claude Code: usa un frontend vero (locale, in rete o pubblicato, http o https) in un Chromium headless e restituisce uno screenshot dopo ogni azione.",
+  "type": "module",
+  "private": true,
+  "main": "server.mjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.32.1",
+    "acorn": "8.19.0",
+    "playwright-core": "1.62.1",
+    "zod": "3.25.76"
+  }
+}
